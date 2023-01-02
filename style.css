@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    font-size: larger;
+    font-style: oblique;
+    margin: 15px;
+}
+
+.lat-iz {
+    background-color: rgba(208, 217, 219, 0.808);
+}
+
+h1 {
+    text-align: center;
+}
+
+.contacto {
+    text-align: center;
+}
+
+.lat-der {
+    text-align: justify;
+    background-color: rgba(195, 205, 207, 0.808);
+}
+
+.exp-lab {
+    padding-left: 10px;
+}
